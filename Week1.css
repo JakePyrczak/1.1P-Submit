@@ -1,0 +1,12 @@
+a:link {color: blue;}
+a:visited {color: light purple;}
+a:hover {color: red;}
+a:active {color: orange;}
+body {background-color: black; color: white;}
+table {background-color: red;}
+
+p3 {font-family: Arial;}
+p5 {font-family: Helvetica;}
+p3 {text-size: 150%;}
+body {text-align: column;}
+p3 {text-transform: uppercase}
